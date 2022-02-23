@@ -1,4 +1,4 @@
-import MySQL.connector
+import mysql.connector
 from csv import DictWriter
 from csv import DictReader
 import os
