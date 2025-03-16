@@ -1,4 +1,4 @@
-# Colege-Projects
+# College-Projects
 A simple project on airline reservation system using python..
 The Airline Reservation System project aims to develop a comprehensive and efficient web-based application that facilitates the process of airline ticket booking and management. The system will provide a user-friendly interface for passengers to search for flights, make reservations, and manage their bookings. It will also offer administrative functionalities for airline staff to manage flight schedules, seat availability, and customer data.
 
